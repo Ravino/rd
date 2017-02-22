@@ -1,0 +1,9 @@
+﻿.page {
+min-width: 100%;
+text-align: center;
+}
+
+.page-row{
+display: flex;
+justify-content: space-around;
+}
